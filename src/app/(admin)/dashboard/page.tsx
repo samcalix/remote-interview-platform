@@ -12,7 +12,7 @@ import { INTERVIEW_CATEGORY } from "@/constants";
 import { Badge } from "@/components/ui/badge";
 import { Card, CardContent, CardFooter, CardHeader, CardTitle } from "@/components/ui/card";
 import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
-import { CalendarIcon, CheckCircle2Icon, ClockIcon, XCircleIcon } from "lucide-react";
+import { CalendarIcon, CheckCircle2Icon, ClockIcon, XCircleIcon } from "lucide-react";`z`
 import { format } from "date-fns";
 import CommentDialog from "@/components/CommentDialog";
 

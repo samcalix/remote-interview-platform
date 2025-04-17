@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://climbing-cattle-3.clerk.accounts.dev/",
+      domain: "https://superb-python-79.clerk.accounts.dev/",
       applicationID: "convex",
     },
   ],
